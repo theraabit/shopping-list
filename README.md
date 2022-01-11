@@ -2,6 +2,6 @@ Bacon
 Eggs
 Bread
 Butter
-Mike
+Milk
 Salt
 Pepper
